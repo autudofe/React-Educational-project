@@ -1,0 +1,12 @@
+.todoList{
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 400px;
+    background-color: #8d5cff;
+    padding: 30px;
+}
+
+.table{
+    display: flex;
+    flex-direction: row;
+}

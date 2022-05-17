@@ -1,0 +1,7 @@
+/*export const FETCH_USERS = 'FETCH_USERS';
+export const FETCH_USERS_SUCCESS = 'FETCH_USERS_SUCCESS';
+export const FETCH_USERS_ERROR = 'FETCH_USERS_ERROR';*/
+
+export const ADD_ALL_USERS = 'ADD_ALL_USERS';
+export const ADD_ALL_TODOS = 'ADD_ALL_TODOS';
+export const ADD_ALL_POSTS = 'ADD_ALL_POSTS';

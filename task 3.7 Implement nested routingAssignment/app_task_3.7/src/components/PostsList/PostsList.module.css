@@ -1,0 +1,25 @@
+
+.postList{
+    box-sizing: border-box;
+    padding: 30px;
+    width: 100%;
+    min-height: 400px;
+    background-color: #ffbd5c;
+}
+
+.addPostButton{
+    padding: 10px 25px;
+    border: 2px solid #ff9c00;
+    background-color: #f1c47d;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: .2s;
+}
+.addPostButton:hover{
+    border: 2px solid #ffffff;
+    background-color: #efa733;
+}

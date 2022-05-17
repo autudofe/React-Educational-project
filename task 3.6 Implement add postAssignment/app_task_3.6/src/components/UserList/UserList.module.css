@@ -1,0 +1,17 @@
+.userList {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 400px;
+    background-color: #5cffcb;
+    padding: 30px;
+}
+.table{
+    border: #000000 solid 1px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.cellTable{
+    width: 250px;
+
+}

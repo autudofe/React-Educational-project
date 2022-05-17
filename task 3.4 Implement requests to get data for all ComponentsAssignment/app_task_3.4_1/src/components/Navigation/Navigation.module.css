@@ -1,0 +1,29 @@
+.navigationBlock{
+    color: white;
+    font-size: 18px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 33.3%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.navigation{
+    margin-bottom: 5px;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #fe9900;
+}
+
+
+.navigationBlock:hover{
+    background-color: #ffae38;
+}
+.activeLink{
+    background-color: #e28f13;
+}

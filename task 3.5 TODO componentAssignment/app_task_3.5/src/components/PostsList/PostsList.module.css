@@ -1,0 +1,11 @@
+
+.postList{
+    box-sizing: border-box;
+    padding: 30px;
+    width: 100%;
+    min-height: 400px;
+    background-color: #ffbd5c;
+}
+p{
+
+}

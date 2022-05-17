@@ -1,0 +1,36 @@
+.todoList {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 400px;
+    background-color: #8d5cff;
+    padding: 30px;
+}
+
+.table {
+    display: flex;
+    flex-direction: row;
+}
+
+.todoRow {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.title {
+    width: 80%;
+}
+
+.checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+    transform: scale(1.5);
+    cursor: pointer;
+    margin: 0;
+}

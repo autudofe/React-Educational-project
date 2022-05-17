@@ -1,0 +1,7 @@
+.userList {
+    box-sizing: border-box;
+    width: 100%;
+    height: 400px;
+    background-color: #5cffcb;
+    padding: 30px;
+}
